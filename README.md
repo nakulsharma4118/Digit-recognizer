@@ -36,7 +36,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/mnist-digit-classification.git
+git clone https://github.com/nakulsharma4118/digit-recognizer.git
 cd mnist-digit-classification
 Install dependencies
 Make sure Python and pip are installed, then run:
